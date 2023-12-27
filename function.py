@@ -1,2 +1,2 @@
 import os
-# Need to set up llocal library
+from library import input as inp
